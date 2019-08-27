@@ -1,7 +1,10 @@
 html{
     scroll-behavior: smooth;
-    font-family:"Yu Gothic", YuGothic, 'Kosugi',sans-serif;
   }
+
+header,body{
+   font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+}
 
 body{
    margin:0;
