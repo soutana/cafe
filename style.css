@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+  }
+
+body{
+   margin:0;
+}    
+
+ header{
+    position:fixed;
+    top:0;
+    z-index:10;
+    background-color:#FF8F22;
+    opacity:0.8;
+    color:white;
+ }
+
+
+ header a{
+     color:white;
+     font-size:20px;
+     text-decoration:none;
+     font-weight:600;
+ }
+
+
+
+.cafe{
+    font-size:24px;
+}
+
+
+p{
+   line-height:120%;
+ }
+
+.staff{
+   padding-bottom:10%;
+}
+
+ .staff a{
+    color:#0066FF;
+    font-weight:600;
+    text-decoration:none;
+ }
+
+ 
+
+ .staff-jiko p{
+   line-height:120%;
+ }
+
+
+ footer{
+    background-color:black;
+    color:white;
+    width:100%;
+    z-index:10;
+    opacity:0.8;
+ }
