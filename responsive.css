@@ -96,6 +96,7 @@
        }
 
        .cafe,.staff,.event{
+         width:80%;
          text-align:center;
      }
 
