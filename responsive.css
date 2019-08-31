@@ -96,7 +96,8 @@
        }
 
        .cafe,.staff,.event{
-         width:80%;
+         width:90%;
+         paddig-left:5%;
          text-align:center;
      }
 
@@ -144,7 +145,8 @@ header{
 
 .cafe,.staff,.event,footer{
    text-align:center;
-   width:80%;
+   padding-left:5%;
+   width:90%;
 }
 
 .cafemoku{
