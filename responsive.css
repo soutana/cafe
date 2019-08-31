@@ -97,9 +97,8 @@
 
        .cafe,.staff,.event{
          text-align:center;
-         width:80%;
-         padding-left:10%;
      }
+
    footer{
       position:fixed;
       top:90%;
