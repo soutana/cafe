@@ -95,7 +95,7 @@
           left:80%;
        }
 
-       .cafe,.staff,.event{
+       .cafe,.map,.staff,.event{
          width:90%;
          paddig-left:5%;
          text-align:center;
@@ -143,7 +143,7 @@ header{
    left:80%;
 }
 
-.cafe,.staff,.event,footer{
+.cafe,.map,.staff,.event,footer{
    text-align:center;
    padding-left:5%;
    width:90%;
