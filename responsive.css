@@ -87,9 +87,14 @@
           left:80%;
        }
 
+.cafe{
+    padding-top:10%;
+}
+
+
 .event iframe{
-    width:50vw;
-    height:50vw;
+    width:70vw;
+    height:60vw;
 }
 
 
