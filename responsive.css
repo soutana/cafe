@@ -45,12 +45,6 @@
             padding-bottom:12%;
          }
 
-            footer{
-            position:fixed;
-            top:90%;
-         }
-
-
 
 }
 
@@ -87,12 +81,7 @@
           top:25%;
           left:80%;
        }
-
-   footer{
-      position:fixed;
-      top:90%;
-   }
-
+}
 
 
 
@@ -140,9 +129,5 @@ header{
    padding-bottom:12%;
 }
 
-footer{
-   position:fixed;
-   top:95%;
-}
 
 }
